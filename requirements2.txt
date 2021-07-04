@@ -1,0 +1,3 @@
+pip install --upgrade dash
+pip install wordcloud
+pip install jsons
